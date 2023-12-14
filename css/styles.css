@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/assets/bckr.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
